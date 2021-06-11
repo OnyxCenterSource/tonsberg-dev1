@@ -121,7 +121,7 @@ class VatVerifier
 
 <ol start="3">
   <li>Implement the missing Verify method that uses EU VIES web service to verify VAT numbers.
-    <ul type="a">
+    <ul>
       <li>WSDL URL: http://ec.europa.eu/taxation_customs/vies/checkVatService.wsdl</li>
       <li>Example valid German VAT number: DE118856456</li>
     </ul>
