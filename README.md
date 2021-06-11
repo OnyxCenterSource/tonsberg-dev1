@@ -3,7 +3,7 @@ During the recruitment process we want the candidates to solve a few development
 ## Instructions
 1. Clone this repository
 2. Read through the whole assignment. The tasks are somewhat related.
-3. Use Visual Studio or any other IDE you might fancy.
+3. Use Visual Studio or any other IDE you may prefer.
 4. To the best of your ability, try to solve each and every one of the following tasks.
 5. Prepare to demonstrate your solution in an interview process, either online or on site.
 6. Good luck!
