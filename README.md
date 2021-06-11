@@ -1,4 +1,4 @@
-# Developer assignments - Tønsberg
+# Developer assignment 1 - Tønsberg
 During the recruitment process we want the candidates to solve a few development tasks. We use these tasks in our interviews to assess the candidate's ability to solve relevant problems. These solutions will be discussed during the interview process, giving the candidate the oportunity to demonstrate her or his skill level.
 ## Instructions
 1. Clone this repository
@@ -123,7 +123,7 @@ class VatVerifier
   <li>Implement the missing Verify method that uses EU VIES web service to verify VAT numbers.
     <ul>
       <li>WSDL URL: http://ec.europa.eu/taxation_customs/vies/checkVatService.wsdl</li>
-      <li>Example valid German VAT number: DE118856456</li>
+      <li>Example of valid German VAT number: DE118856456</li>
     </ul>
   </li>
 </ol>
