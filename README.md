@@ -131,6 +131,6 @@ class VatVerifier
 ***
 
 <ol start="4">
-  <li>Create a website with a Web API controller that uses the VatVerifier class, and a simple front-end using Angular, React or any other frontend framwrork. Implement a VAT validation form that uses the controller to verify a given VAT number for a given country.
+  <li>Create a website with a Web API controller that uses the VatVerifier class, and a simple front-end using Angular, React or any other frontend framework. Implement a VAT validation form that uses the controller to verify a given VAT number for a given country.
   </li>
 </ol>
