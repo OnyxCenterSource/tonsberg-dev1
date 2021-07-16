@@ -6,7 +6,7 @@ During the recruitment process we want the candidates to solve a few development
 3. Use Visual Studio or any other IDE you may prefer.
 4. To the best of your ability, try to solve each and every one of the following tasks.
 5. Prepare to demonstrate your solution in an interview process, either online or on site.
-6. [Good luck!](https://www.finn.no/job/apply?adId=225170022 "Apply here!")
+6. <a href="https://www.finn.no/job/apply?adId=225170022" target="_blank" title="Apply here!">Good luck!</a>
 
 
 ## Assignment
